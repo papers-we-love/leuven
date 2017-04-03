@@ -14,7 +14,7 @@ Need help?
 If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
 - **Rutger Claes** [mail@rutgerclaes.be](mailto:mail@rutgerclaes.be)
-- **Mario Henrique Cruz Torres** [/Users/rutgerc/Development/cegeka/ccep/ccep-poc/data/customers.csv](mailto:mario.hct@gmail.com)
+- **Mario Henrique Cruz Torres** [mario.hct@gmail.com](mailto:mario.hct@gmail.com)
 - **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
 The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.

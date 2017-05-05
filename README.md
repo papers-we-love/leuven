@@ -8,6 +8,8 @@ What was the last paper you read and loved within the realm of computing? What d
 
 We'll be using [papers-we-love's curated repository](https://github.com/papers-we-love/papers-we-love). Please contribute by adding PR's for papers, code, and/or links to other repositories.
 
+A list of previously discussed papers can be found [here](https://github.com/papers-we-love/leuven/blob/master/PAPERS.md).  Add papers you would like to present or have discussed and initiate a pull request.
+
 ### Information
 
 Events are posted to the [Meetup](https://www.meetup.com/Papers-We-Love-Leuven/) and will typically be held on Wednesday evenings at the Department of [Computer Science](http://wms.cs.kuleuven.be/cs/) of the [KULeuven](https://www.kuleuven.be).
